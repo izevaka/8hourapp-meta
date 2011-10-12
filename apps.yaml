@@ -1,0 +1,4 @@
+apps:
+  app1:
+    repo: /path_to_repo
+    email: izevaka@gmail.com
